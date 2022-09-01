@@ -26,7 +26,7 @@ export const config = {
     // }]
     USERS: [
       {name: 'Exception', id: "o-WsX6A3_nBfUdV0Kh-AjVNOfJhI"}, 
-      //{name: 'test1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
+      {name: 'Y.', id: "o-WsX6DeBtnCiVfH6W6F_uSnpbpI"}, 
       //{name: 'test2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       //{name: 'test3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
