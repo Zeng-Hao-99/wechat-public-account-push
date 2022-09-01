@@ -25,14 +25,14 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: 'Exception', id: "o-WsX6A3_nBfUdV0Kh-AjVNOfJhI"}, 
+      {name: 'gh_fa35653d5f4d', id: "o-WsX6A3_nBfUdV0Kh-AjVNOfJhI"}, 
       //{name: 'test1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
       //{name: 'test2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       //{name: 'test3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: 'Exception',id: "o-WsX6A3_nBfUdV0Kh-AjVNOfJhI"}, 
+      {name: 'gh_fa35653d5f4d',id: "o-WsX6A3_nBfUdV0Kh-AjVNOfJhI"}, 
     ],
      
     /**
